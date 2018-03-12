@@ -12,4 +12,3 @@
             <input type="submit" name="submit" value="создать">
             <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </center>
-    
